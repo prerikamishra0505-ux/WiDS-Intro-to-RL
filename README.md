@@ -8,3 +8,9 @@ Welcome! This repository contains all the resources and assignments to guide you
 Set up your coding environment and get familiar with Python, NumPy and Matplotlib.
 
 - **Topics**: Python, Jupyter Notebook, NumPy, Matplotlib, GitHub
+
+## Week 1: Fundamentals of RL & Multi-Armed Bandit Problem
+
+Core RL concepts and methods to solve the MAB problem.
+
+- **Topics**: RL Framework, Exploration vs. Exploitation, Action-Value Methods, Regret
