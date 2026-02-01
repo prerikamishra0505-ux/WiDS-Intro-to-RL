@@ -1,16 +1,15 @@
-# Introduction to Reinforcement Learning (WiDS)
+# **Week 2: Markov Decision Processes & Value Functions**
 
-Welcome! This repository contains all the resources and assignments to guide you through your RL journey. Each week we will explore various facets of RL preparing you to tackle a comprehensive final project.
----
+In this week, we move from stateless decision-making (Multi-Armed Bandits)
+to sequential decision-making using **Markov Decision Processes (MDPs).**
 
-## Week 0: Introduction and Python Basics
+Topics covered:
+- Markov Decision Processes (states, actions, transitions, rewards)
+- Discount factor and return
+- Value functions and Bellman optimality equation
+- Value Iteration algorithm
 
-Set up your coding environment and get familiar with Python, NumPy and Matplotlib.
+Assignment:
+Implement Value Iteration for a small finite MDP and extract the optimal policy.
 
-- **Topics**: Python, Jupyter Notebook, NumPy, Matplotlib, GitHub
-
-## Week 1: Fundamentals of RL & Multi-Armed Bandit Problem
-
-Core RL concepts and methods to solve the MAB problem.
-
-- **Topics**: RL Framework, Exploration vs. Exploitation, Action-Value Methods, Regret
+Note: The optimal policy favors long-term discounted rewards over immediate terminal rewards.
